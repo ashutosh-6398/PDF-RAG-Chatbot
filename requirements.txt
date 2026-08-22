@@ -1,0 +1,9 @@
+sentence-transformers
+huggingface_hub
+python-dotenv
+pypdf
+langchain-text-splitters
+chromadb
+fastapi
+uvicorn
+python-multipart
